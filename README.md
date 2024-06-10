@@ -1,16 +1,16 @@
-## Hi there 👋
+## boa vindas ao meu perfil
 
-<!--
-**Mateusfornazier/Mateusfornazier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Mateus Miguel 
 
-Here are some ideas to get you started:
+- Estou estudando esse plataforma pelo ALURA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou no segundo ano do ensino medio atualmente
+
+- Estou focando em estudar nessa plataforma a linguagem  JavaScript
+
+- Ultilizo essa espaço para organização de meus pequenos projetos e compartinhar alguns dos meus projetos desenvolvidos
+
+
+- ## Voce pode entrar em contato comigo pelo Gmeil:
+
+- Mateusmiguelfornazier2007@gmail.com
